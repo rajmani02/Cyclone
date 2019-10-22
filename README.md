@@ -9,7 +9,7 @@ What's Here
 This sample includes:
 
 * README.md - this file
-* buildspec.yml - this file is used by AWS CodeBuild to package your
+* buildspec.yml - this file is used by AWS CodeBuild to package your  hii 
   application for deployment to AWS Lambda
 * main.go - this file contains the sample Go code for the web application
 * main_test.go - this file contains unit tests for the sample Go code
